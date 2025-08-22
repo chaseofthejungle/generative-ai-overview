@@ -52,3 +52,7 @@
 <hr />
 
 ## 8. <a name="supplemental">Supplemental Resources</a>
+
+* *[Four AI Model Types Overview](https://github.com/chaseofthejungle/four-ai-models-overview)*
+* *[Agentic AI and AI Agents Overview](https://github.com/chaseofthejungle/agentic-ai-and-ai-agents-overview)*
+* *[AI Architecture Model Overview Guide](https://github.com/chaseofthejungle/AI-Architecture-Model-Overview)*
