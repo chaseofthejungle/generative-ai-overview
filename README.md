@@ -6,7 +6,7 @@
 
 1. [Defining 'Generative AI'](#defining)
 2. [Key Mathematical Concepts](#keyconcepts)
-3. [Generative AI Models](#models)
+3. [Generative AI Foundational Models](#models)
 4. [Generative AI Development Stack](#stack)
 5. [Training the Model](#training)
 6. [Building Out AI Agents](#building)
@@ -31,7 +31,15 @@
 
 <hr />
 
-## 3. <a name="models">Generative AI Models</a>
+## 3. <a name="models">Generative AI Foundational Models</a>
+
+| *Model* | *Strengths* | *Potential Limitations* |
+| :---: | :---: | :----: |
+| **Claude** | Safe, Less Rigid (more human-like) Writing Style, Can Handle Lengthy Text Data | Context and Prompt Rates (Subscriptions or API Access may be necessary). |
+| **DeepSeek** | Robust Logic, High Processing Efficiency of Coding and Technical Tasks, Low Cost | Multimodal Constraints. |
+| **Gemini** | Complex Logic Capabilities, Capable of Handling Massive Contexts, Highly Multimodal | Context and Prompt Rates (Subscriptions or API Access may be necessary). |
+| **GPT** | Generates Complex Content, Handles Complex Prompts, Broad Dialogue Capabilities | Context and Prompt Rates (Subscriptions or API Access may be necessary). |
+| **Llama** | Open-Source, Capability of Handling Massive Contexts, Multi-Lingual Support | Focus on Functionality May Make It Less Suitable for Subjectively Nuanced Tasks. |
 
 <hr />
 
