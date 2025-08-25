@@ -10,7 +10,7 @@
 4. [Generative AI Development Stack](#stack)
 5. [Training the Model](#training)
 6. [Building Out AI Agents](#building)
-7. [Generative AI Study Materials](#materials)
+7. [Generative AI Training Providers](#materials)
 8. [Supplemental Resources](#supplemental)
 
 <hr />
@@ -62,7 +62,12 @@
 
 <hr />
 
-## 7. <a name="materials">Generative AI Study Materials</a>
+## 7. <a name="materials">Generative AI Training Providers</a>
+
+* **[DeepLearning.AI](https://www.deeplearning.ai/):** An education technology company that provides international and collaborative training/educational opportunities for construting AI-oriented solutions.
+* **[Google Labs](https://labs.google/):** A platform for testing/previewing Google's products and services (including AI-oriented ones, such as personalized AI collaborators, feedback mechanisms, and AI overviews) before they are officially released.
+* **[Kaggle](https://www.kaggle.com/):** An online community/hub and competitive data science problem solving platform, acquired by Google in 2017. It provides machine learning and data scientists with the ability to discover and publish their models and data sets, as well as collaborate with other machine learning and data professionals.
+* **[Nvidia Academy](https://academy.nvidia.com/en/):** Provides self-paced/asynchronous AI learning (knowledge and skills) courses (many of which are free).
 
 <hr />
 
