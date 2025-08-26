@@ -52,6 +52,14 @@
 
 ## 4. <a name="stack">Generative AI Development Stack</a>
 
+Examples of technologies integrated in development of Gen AIs include:
+
+* **Foundational Models** (e.g., Claude, DeepSeek, Gemini, GPT, Llama)
+* **Online/Open-Source Platform Communities** (e.g., Hugging Face, OpenAI)
+* **Programming Languages** (especially Python, with C++, Java, JavaScript, R, and many others being relevant)
+* **Prompt Engineering Tools** (e.g. Helicone, LangSmith, OpenAI Playground, PromptLayer, Promptmetheus, PromptPerfect)
+* **Vector Databases** (many possibilities, such as Pinecone, Marqo, ElasticSearch, MongoDB, and PostgreSQL)
+
 <hr />
 
 ## 5. <a name="training">Training the Model</a>
