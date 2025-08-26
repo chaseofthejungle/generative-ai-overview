@@ -56,6 +56,13 @@
 
 ## 5. <a name="training">Training the Model</a>
 
+1) **Data Training**: Gen AIs learn to identify patterns from being fed massive quantities of relevant data (e.g., text, video, images, audio).
+2) **Accuracy Training**: Gen AIs perform generation accuracy learning through the algorithmic detection of error ratios (loss functions) between their model's output and the idealized output.
+3) **Analyzing Quality**: Mechanisms/metrics are selected for determining how satisfactory generated data are.
+4) **Avoiding Mode Collapse and Overfitting**: Gen AIs need to avoid an overly narrow output range (mode collapsing), as well as simply recognizing the training data without being able to dive deeper into its indications (overfitting)
+5) **Conditional Generation**: This type of Gen AI can generate outputs in response to inputs and constraints (conditions).
+6) **Fine-Tuning**: Weights and parameters can be kept static or made dynamic (as necessary), with evaluation (in comparison to targets) occurring afterward.
+
 <hr />
 
 ## 6. <a name="building">Building Out AI Agents</a>
