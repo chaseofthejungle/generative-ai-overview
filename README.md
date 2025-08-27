@@ -9,7 +9,7 @@
 3. [Generative AI Foundational Models](#models)
 4. [Generative AI Development Stack](#stack)
 5. [Training the Model](#training)
-6. [Building Out AI Agents](#building)
+6. [Best Practices for Building AI Agents](#building)
 7. [Generative AI Training Providers](#materials)
 8. [Supplemental Resources](#supplemental)
 
@@ -73,7 +73,7 @@ Examples of technologies integrated in development of Gen AIs include:
 
 <hr />
 
-## 6. <a name="building">Building Out AI Agents</a>
+## 6. <a name="building">Best Practices for Building AI Agents</a>
 
 <hr />
 
