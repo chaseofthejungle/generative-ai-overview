@@ -9,7 +9,7 @@
 3. [Generative AI Foundational Models](#models)
 4. [Generative AI Development Stack](#stack)
 5. [Training the Model](#training)
-6. [Best Practices for Building AI Agents](#building)
+6. [Best Practices/Considerations When Building Gen AI](#building)
 7. [Generative AI Training Providers](#materials)
 8. [Supplemental Resources](#supplemental)
 
@@ -73,7 +73,16 @@ Examples of technologies integrated in development of Gen AIs include:
 
 <hr />
 
-## 6. <a name="building">Best Practices for Building AI Agents</a>
+## 6. <a name="building">Best Practices/Considerations When Building Gen AI</a>
+
+The following considerations are essential when developing Gen AIs:
+
+* **Accountability**: It can be challenging to trace the sources of fake or misleading data fed to Gen AIs.
+* **Data Privacy**: Gen AIs trained through private or otherwise sensitive data could cause public revelation of data that is intended to remain personal. There may also be legal consequences.
+* **Energy Resource Draining**: AI training can come with massive energy requirements, resulting in sustainability/environmental and financial consequences. 
+* **Ethical Usage**: Gen AI outputs can generate realistic content that presents people doing things that they did not actually do ('deep faking'), be impacted by human biases, and potentially spread false or confidential information. There may be other accidental and damaging consequences due to the independent functioning of Gen AIs, as well.
+* **Proprietary Data**: If Gen AIs are pre-trained/trained with data that have established owners, there may be legal and other unintended consequences.
+* **Regulatory Compliance**: This can be a challenge due to vague or missing laws/guidelines, especially due to technological advancement being ahead of the legislative curve. 
 
 <hr />
 
