@@ -11,7 +11,8 @@
 5. [Training the Model](#training)
 6. [Best Practices/Considerations When Building Gen AI](#building)
 7. [Generative AI Training Providers](#materials)
-8. [Supplemental Resources](#supplemental)
+8. [AI Image Generators](#aiimg)
+9. [Supplemental Resources](#supplemental)
 
 <hr />
 
@@ -95,7 +96,13 @@ The following considerations are essential when developing Gen AIs:
 
 <hr />
 
-## 8. <a name="supplemental">Supplemental Resources</a>
+## 8. <a name="aiimg">AI Image Generators</a>
+  
+(TODO)
+  
+<hr />
+
+## 9. <a name="supplemental">Supplemental Resources</a>
 
 * *[Four AI Model Types Overview](https://github.com/chaseofthejungle/four-ai-models-overview)*
 * *[Agentic AI and AI Agents Overview](https://github.com/chaseofthejungle/agentic-ai-and-ai-agents-overview)*
