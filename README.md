@@ -98,7 +98,7 @@ The following considerations are essential when developing Gen AIs:
 
 ## 8. <a name="aiimg">AI Image Generators</a>
   
-(TODO)
+For an overview of four AI image generators (DALL-E, FluxAI, Midjourney, Stable Diffusion), consult [this guide](https://github.com/chaseofthejungle/four-ai-img-generators-guide).
   
 <hr />
 
