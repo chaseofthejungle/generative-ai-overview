@@ -43,11 +43,11 @@
 
 | *Model* | *Strengths* | *Potential Limitations* |
 | :---: | :---: | :----: |
-| **Claude** | Safe, Less Rigid (more human-like) Writing Style, Can Handle Lengthy Text Data | Context and Prompt Rates (Subscriptions or API Access may be necessary). |
-| **DeepSeek** | Robust Logic, High Processing Efficiency of Coding and Technical Tasks, Low Cost | Multimodal Constraints. |
-| **Gemini** | Complex Logic Capabilities, Capable of Handling Massive Contexts, Highly Multimodal | Context and Prompt Rates (Subscriptions or API Access may be necessary). |
-| **GPT** | Generates Complex Content, Handles Complex Prompts, Broad Dialogue Capabilities | Context and Prompt Rates (Subscriptions or API Access may be necessary). |
-| **Llama** | Open-Source, Capability of Handling Massive Contexts, Multi-Lingual Support | Focus on Functionality May Make It Less Suitable for Subjectively Nuanced Tasks. |
+| [**Claude**](https://claude.ai/) | Safe, Less Rigid (more human-like) Writing Style, Can Handle Lengthy Text Data | Context and Prompt Rates (Subscriptions or API Access may be necessary). |
+| [**DeepSeek**](https://www.deepseek.com/en) | Robust Logic, High Processing Efficiency of Coding and Technical Tasks, Low Cost | Multimodal Constraints. |
+| [**Gemini**](https://gemini.google/overview/deep-research/) | Complex Logic Capabilities, Capable of Handling Massive Contexts, Highly Multimodal | Context and Prompt Rates (Subscriptions or API Access may be necessary). |
+| [**GPT**](https://openai.com/index/gpt-5-1/) | Generates Complex Content, Handles Complex Prompts, Broad Dialogue Capabilities | Context and Prompt Rates (Subscriptions or API Access may be necessary). |
+| [**Llama**](https://www.llama.com/) | Open-Source, Capability of Handling Massive Contexts, Multi-Lingual Support | Focus on Functionality May Make It Less Suitable for Subjectively Nuanced Tasks. |
 
 <hr />
 
