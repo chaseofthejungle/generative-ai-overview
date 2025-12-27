@@ -20,10 +20,12 @@
 
 *Generative AI* can be conceptualized through a 4-layer paradigm, with each descending layer conceptually 'contained' within the previous layers and culminating with 'Generative AI'. From most general to most specific:
 
-1) **Artificial Intelligence (AI):** Human-developed information systems appear to possess *Artificial Intelligence* when they process tasks: it is as if they are thinking for themselves.
-2) **Machine Learning:** When algorithms empower artificially intelligent systems with the ability to 'learn' from data (consequently, systems appear to be more intelligent).
-3) **Deep Learning:** When machine learning goes farther: algorithms can recognize patterns in data and make predictions via artificial neural networks.
-4) **Generative AI:** Fresh content is developed (generated) by the AI system based on what has been learned.
+| Layer | Purpose |
+| :---: | :---: |
+| **Artificial Intelligence (AI)** | Human-developed information systems appear to possess *Artificial Intelligence* when they process tasks: it is as if they are thinking for themselves. |
+| **Machine Learning** | When algorithms empower artificially intelligent systems with the ability to 'learn' from data (consequently, systems appear to be more intelligent). |
+| **Deep Learning** | When machine learning goes farther: algorithms can recognize patterns in data and make predictions via artificial neural networks. |
+| **Generative AI** | Fresh content is developed (generated) by the AI system based on what has been learned. |
 
 <hr />
 
