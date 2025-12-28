@@ -1,6 +1,6 @@
 # Generative AI Overview Guide
 
-**TODO:** A brief introductory guide, outlining the basics of Generative AI ('Gen AI').
+**Description/Overview:** The following guide outlines what *Generative AI* is, some key mathematical concepts concerning it, its foundational models and development stack, various training considerations and providers, and a note on AI image generators.
 
 #### Table of Contents
 
