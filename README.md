@@ -57,11 +57,13 @@
 
 Examples of technologies integrated in development of Gen AIs include:
 
-* **Foundational Models** (e.g., Claude, DeepSeek, Gemini, GPT, Llama)
-* **Online/Open-Source Platform Communities** (e.g., Hugging Face, OpenAI)
-* **Programming Languages** (especially Python, with C++, Java, JavaScript, R, and many others being relevant)
-* **Prompt Engineering Tools** (e.g. Helicone, LangSmith, OpenAI Playground, PromptLayer, Promptmetheus, PromptPerfect)
-* **Vector Databases** (many possibilities, such as Pinecone, Marqo, ElasticSearch, MongoDB, and PostgreSQL)
+| *Technology* | *Examples* |
+| :---: | :---: |
+| **Foundational Models** | Claude, DeepSeek, Gemini, GPT, Llama. |
+| **Online/Open-Source Platform Communities** | Hugging Face, OpenAI. |
+| **Programming Languages** | Python, with C++, Java, JavaScript, R, and many others being relevant. |
+| **Prompt Engineering Tools** | Helicone, LangSmith, OpenAI Playground, PromptLayer, Promptmetheus, PromptPerfect. |
+| **Vector Databases** | Many possibilities, such as Pinecone, Marqo, ElasticSearch, MongoDB, and PostgreSQL. |
 
 <hr />
 
